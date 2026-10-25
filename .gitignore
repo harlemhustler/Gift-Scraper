@@ -1,0 +1,6 @@
+data/gift_inventory_state.json
+data/promo_images/
+logs/
+__pycache__/
+*.py[cod]
+.pytest_cache/
